@@ -1,0 +1,21 @@
+JavaScript Environment Kit:
+	- Installation: Node, Git 
+	- IDE:
+		Visual Studio Code, Sublime Test Editor 
+	- NodeJS 
+	- Install angular Client
+		npm install -g @angular/cli
+	
+
+Angular Commands:
+------------------
+ng serve --configuration=local
+npm test
+ng test --code-coverage
+
+npm start
+npm run start-local
+npm test
+npm run test-coverage
+npm run eslint
+npm run eslint-fix
